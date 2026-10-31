@@ -1,0 +1,15 @@
+{
+	"name": "shivadfnov",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ccab1dc7-55cd-4eb9-a341-64c8965715d3",
+		"tenantId": "254d6354-d29a-476c-89c5-a529699d04f9"
+	}
+}
